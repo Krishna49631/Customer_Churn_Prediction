@@ -117,7 +117,7 @@ streamlit run app.py
 
 ### 📊 Churn Distribution
 
-![Churn %](Churn_%.png)
+![Churn %](Churn_chances.png)
 Shows overall churn vs retained customers.
 
 ---
